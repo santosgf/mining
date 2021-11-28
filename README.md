@@ -1,0 +1,2 @@
+# mining
+free vps2
